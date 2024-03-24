@@ -1,0 +1,1 @@
+This is a spam email detection model trained on a dataset from https://www.kaggle.com/datasets/venky73/spam-mails-dataset/code. The model , however , can be innaccurate at times due to the limited data available. Feel free to train the model with your own dataset!
